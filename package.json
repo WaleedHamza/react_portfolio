@@ -2,7 +2,9 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://waleedhamza.github.io/WaleedHamza2.github.io/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-particles-js": "^2.3.0",
@@ -10,6 +12,8 @@
     "react-sliding-pane": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
