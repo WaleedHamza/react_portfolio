@@ -1,7 +1,7 @@
 [
   {
       "id": 1,
-      "image": "/images/Mongo_Scraper.png",
+      "image": "../src/Assets/Mongo_Scraper.png",
       "name": "Scraper",
       "tech": "Js",
       "link": "https://sheltered-meadow-20126.herokuapp.com/"
@@ -60,6 +60,6 @@
       "image": "/images/trivia.png",
       "name": "Trivia",
       "tech": "Js",
-      "link": "https://waleedhamza.com/TriviaGame/"
+      "link": "https://waleedhamza.github.io/TriviaGame/"
     }
 ]
