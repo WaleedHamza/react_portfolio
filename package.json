@@ -6,10 +6,12 @@
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dev-utils": "^7.0.3",
+    "react-dom": "^16.8.3",
     "react-particles-js": "^2.3.0",
     "react-scripts": "1.1.4",
-    "react-sliding-pane": "^2.1.0"
+    "react-sliding-pane": "^2.1.0",
+    "webpack-dev-server": "^3.2.1"
   },
   "scripts": {
     "predeploy": "yarn run build",
