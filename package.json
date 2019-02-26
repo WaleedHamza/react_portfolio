@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waleedhamza.github.io/WaleedHamza2.github.io/",
+  "homepage": "https://waleedhamza.com/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
