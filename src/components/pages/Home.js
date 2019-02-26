@@ -26,9 +26,9 @@ class Home extends React.Component {
                             <br/>
                             <h1 className="display-4">Full Stack Developer</h1>
                             <br/>
-                            <p className="lead ml2">HTML | CSS | JavaScript | JQuery | Node.js | Express.js | Mongo | React.js
+                            <p className="lead ml2">HTML | CSS | JavaScript | JQuery 
                                 <br/>
-                                Node.js | Express | MongoDB | MYSQL</p>
+                                Node.js | Express | MongoDB | MYSQL | React.js</p>
                         </div>
 
                         <div className="socialMedia">
