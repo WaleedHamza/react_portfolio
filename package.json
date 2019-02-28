@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waleedhamza.github.io/react_portfolio/",
+  "homepage": "https://waleedhamza.github.io/react_portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "merge": "^1.2.1",
