@@ -64,7 +64,7 @@ render (){
     <img alt="Bro Finder" src={Bro_Finder}/>
     </a>
     <div className="projectName">
-                <a href="https://facebook-like-friend-finder-v1.herokuapp.com/">
+                <a href="https://glacial-beyond-19940.herokuapp.com/">
                     <h3>Bro Finder</h3>
                 </a>
             </div>  
