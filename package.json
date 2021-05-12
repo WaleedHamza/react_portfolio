@@ -5,7 +5,7 @@
   "homepage": "https://waleedhamza.com",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "react": "^16.4.1",
     "react-dev-utils": "^7.0.3",
     "react-dom": "^16.8.3",
